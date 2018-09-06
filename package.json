@@ -1,0 +1,17 @@
+{
+  "name": "nodeapifordynamodb",
+  "version": "1.0.0",
+  "description": "API to make call to dynamoDB and give back data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "Annish",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.308.0",
+    "express": "^4.16.3",
+    "jade": "^1.11.0"
+  }
+}
